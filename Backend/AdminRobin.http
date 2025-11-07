@@ -1,0 +1,182 @@
+@AdminRobin_HostAddress = https://localhost:7147
+
+# =============================================================================
+# AUTH ENDPOINTS
+# =============================================================================
+
+### Login
+POST {{AdminRobin_HostAddress}}/api/auth/login
+Content-Type: application/json
+
+{
+  "userName": "admin",
+  "password": "123456",
+  "rememberMe": false
+}
+
+### Register
+POST {{AdminRobin_HostAddress}}/api/auth/register
+Content-Type: application/json
+
+{
+  "userName": "testuser",
+  "name": "Test",
+  "lastName": "User",
+  "password": "123456",
+  "confirmPassword": "123456",
+  "userTypeId": 1
+}
+
+### Get User Profile (requires token)
+GET {{AdminRobin_HostAddress}}/api/auth/profile
+Authorization: Bearer YOUR_JWT_TOKEN_HERE
+
+### Validate Token (requires token)
+GET {{AdminRobin_HostAddress}}/api/auth/validate-token
+Authorization: Bearer YOUR_JWT_TOKEN_HERE
+
+### Change Password (requires token)
+POST {{AdminRobin_HostAddress}}/api/auth/change-password
+Content-Type: application/json
+Authorization: Bearer YOUR_JWT_TOKEN_HERE
+
+{
+  "currentPassword": "123456",
+  "newPassword": "newpass123",
+  "confirmNewPassword": "newpass123"
+}
+
+### Logout (requires token)
+POST {{AdminRobin_HostAddress}}/api/auth/logout
+Authorization: Bearer YOUR_JWT_TOKEN_HERE
+
+# =============================================================================
+# LOGS ENDPOINTS
+# =============================================================================
+
+### Get All Logs (requires token)
+GET {{AdminRobin_HostAddress}}/api/logs
+Authorization: Bearer YOUR_JWT_TOKEN_HERE
+
+### Get Log by ID (requires token)
+GET {{AdminRobin_HostAddress}}/api/logs/1
+Authorization: Bearer YOUR_JWT_TOKEN_HERE
+
+### Get Paginated Logs (requires token)
+GET {{AdminRobin_HostAddress}}/api/logs/paginated?pageNumber=1&pageSize=10
+Authorization: Bearer YOUR_JWT_TOKEN_HERE
+
+### Get Recent Logs (requires token)
+GET {{AdminRobin_HostAddress}}/api/logs/recent?count=5
+Authorization: Bearer YOUR_JWT_TOKEN_HERE
+
+### Create New Log (requires token)
+POST {{AdminRobin_HostAddress}}/api/logs
+Content-Type: application/json
+Authorization: Bearer YOUR_JWT_TOKEN_HERE
+
+{
+  "extension": "1001",
+  "asesor": "Juan Perez",
+  "callRef": "CALL123456",
+  "idPages": 1,
+  "totalDuration": 300,
+  "pauseCount": 2,
+  "totalPauseTime": 45,
+  "startTime": "2024-01-15T09:00:00",
+  "endTime": "2024-01-15T09:05:00",
+  "userAgent": "Mozilla/5.0",
+  "actionTypeId": 1
+}
+
+### Delete Log (requires token)
+DELETE {{AdminRobin_HostAddress}}/api/logs/1
+Authorization: Bearer YOUR_JWT_TOKEN_HERE
+
+### Get Logs Count (requires token)
+GET {{AdminRobin_HostAddress}}/api/logs/count
+Authorization: Bearer YOUR_JWT_TOKEN_HERE
+
+
+# =============================================================================
+# USERS ENDPOINTS
+# =============================================================================
+
+### Get All Users (requires token)
+GET {{AdminRobin_HostAddress}}/api/users
+Authorization: Bearer YOUR_JWT_TOKEN_HERE
+
+### Get User by ID (requires token)
+GET {{AdminRobin_HostAddress}}/api/users/1
+Authorization: Bearer YOUR_JWT_TOKEN_HERE
+
+### Create New User (requires token)
+POST {{AdminRobin_HostAddress}}/api/users
+Content-Type: application/json
+Authorization: Bearer YOUR_JWT_TOKEN_HERE
+
+{
+  "userName": "newuser",
+  "name": "Nuevo",
+  "lastName": "Usuario",
+  "password": "123456",
+  "userTypeId": 2
+}
+
+### Update User (requires token)
+PUT {{AdminRobin_HostAddress}}/api/users/1
+Content-Type: application/json
+Authorization: Bearer YOUR_JWT_TOKEN_HERE
+
+{
+  "name": "Actualizado",
+  "lastName": "Usuario",
+  "userTypeId": 2
+}
+
+### Delete User (requires token)
+DELETE {{AdminRobin_HostAddress}}/api/users/1
+Authorization: Bearer YOUR_JWT_TOKEN_HERE
+
+
+# =============================================================================
+# PAGES ENDPOINTS
+# =============================================================================
+
+### Get All Pages (requires token)
+GET {{AdminRobin_HostAddress}}/api/pages
+Authorization: Bearer YOUR_JWT_TOKEN_HERE
+
+### Get Page by ID (requires token)
+GET {{AdminRobin_HostAddress}}/api/pages/1
+Authorization: Bearer YOUR_JWT_TOKEN_HERE
+
+
+# =============================================================================
+# ACTION TYPES ENDPOINTS
+# =============================================================================
+
+### Get All Action Types (requires token)
+GET {{AdminRobin_HostAddress}}/api/actiontypes
+Authorization: Bearer YOUR_JWT_TOKEN_HERE
+
+### Get Action Type by ID (requires token)
+GET {{AdminRobin_HostAddress}}/api/actiontypes/1
+Authorization: Bearer YOUR_JWT_TOKEN_HERE
+
+
+# =============================================================================
+# PAUSE EVENTS ENDPOINTS
+# =============================================================================
+
+### Get All Pause Events (requires token)
+GET {{AdminRobin_HostAddress}}/api/pauseevents
+Authorization: Bearer YOUR_JWT_TOKEN_HERE
+
+### Get Pause Event by ID (requires token)
+GET {{AdminRobin_HostAddress}}/api/pauseevents/1
+Authorization: Bearer YOUR_JWT_TOKEN_HERE
+
+### Get Pause Events by LogId (requires token)
+GET {{AdminRobin_HostAddress}}/api/pauseevents/bylog/1
+Authorization: Bearer YOUR_JWT_TOKEN_HERE

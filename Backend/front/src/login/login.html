@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ingresar • Usuaric</title>
+  <link rel="stylesheet" href="global.css">
+  <link rel="stylesheet" href="login.css?v=5">
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+</head>
+<body class="theme-glass">
+  <main class="auth-container">
+    <section class="auth-card">
+      <div class="auth-head">
+        <div class="brand">U</div>
+      </div>
+
+      <div class="auth-body">
+        <h1>Login</h1>
+        <form id="formLogin" class="form">
+          <div class="field">
+            <label>Usurio</label>
+            <input type= "text" id="Usuario", class="input" placeholder="ingresa tu usuario" required />
+          </div>
+          <div class="field">
+            <label>Password</label>
+            <input id="pass" class="input" type="password" placeholder="••••••••" required />
+          </div>
+          <div class="row">
+            <a class="small" href="#">Forgot password?</a>
+          </div>
+          <button class="btn btn--black" type="submit">Login</button>
+          <div id="errorBox" class="toast hidden">Credenciales inválidas</div>
+        </form>
+
+        <div class="alt small">
+          Don’t have any account?
+          <a href="register.html">Sign Up</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script type="module" src="/service/axiosService.js"></script>
+</body>
+</html>

@@ -1,0 +1,732 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|c:\\users\\angel.barrientos\\source\\repos\\adminrobin\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|solutionrelative:services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|c:\\users\\angel.barrientos\\source\\repos\\adminrobin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|c:\\users\\angel.barrientos\\source\\repos\\adminrobin\\models\\entities\\logs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|solutionrelative:models\\entities\\logs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|c:\\users\\angel.barrientos\\source\\repos\\adminrobin\\data\\repositories\\logsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|solutionrelative:data\\repositories\\logsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|c:\\users\\angel.barrientos\\source\\repos\\adminrobin\\controllers\\logscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|solutionrelative:controllers\\logscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|c:\\users\\angel.barrientos\\source\\repos\\adminrobin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|c:\\users\\angel.barrientos\\source\\repos\\adminrobin\\services\\implementations\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|solutionrelative:services\\implementations\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|c:\\users\\angel.barrientos\\source\\repos\\adminrobin\\services\\implementations\\adminservice.temp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|solutionrelative:services\\implementations\\adminservice.temp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|c:\\users\\angel.barrientos\\source\\repos\\adminrobin\\models\\dtos\\adminupdateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|solutionrelative:models\\dtos\\adminupdateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|c:\\users\\angel.barrientos\\source\\repos\\adminrobin\\models\\dtos\\adminresetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|solutionrelative:models\\dtos\\adminresetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|c:\\users\\angel.barrientos\\source\\repos\\adminrobin\\services\\interfaces\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|solutionrelative:services\\interfaces\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|c:\\users\\angel.barrientos\\source\\repos\\adminrobin\\data\\repositories\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|solutionrelative:data\\repositories\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|c:\\users\\angel.barrientos\\source\\repos\\adminrobin\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|c:\\users\\angel.barrientos\\source\\repos\\adminrobin\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|c:\\users\\angel.barrientos\\source\\repos\\adminrobin\\services\\implementations\\csvexportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|solutionrelative:services\\implementations\\csvexportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|c:\\users\\angel.barrientos\\source\\repos\\adminrobin\\models\\dtos\\userexportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|solutionrelative:models\\dtos\\userexportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|c:\\users\\angel.barrientos\\source\\repos\\adminrobin\\data\\repositories\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|solutionrelative:data\\repositories\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|c:\\users\\angel.barrientos\\source\\repos\\adminrobin\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|solutionrelative:models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|c:\\users\\angel.barrientos\\source\\repos\\adminrobin\\models\\entities\\revokedtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|solutionrelative:models\\entities\\revokedtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|c:\\users\\angel.barrientos\\source\\repos\\adminrobin\\models\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|solutionrelative:models\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|c:\\users\\angel.barrientos\\source\\repos\\adminrobin\\services\\implementations\\pptexportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|solutionrelative:services\\implementations\\pptexportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|c:\\users\\angel.barrientos\\source\\repos\\adminrobin\\services\\interfaces\\icsvexportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|solutionrelative:services\\interfaces\\icsvexportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|c:\\users\\angel.barrientos\\source\\repos\\adminrobin\\services\\interfaces\\ipptexportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|solutionrelative:services\\interfaces\\ipptexportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|c:\\users\\angel.barrientos\\source\\repos\\adminrobin\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|solutionrelative:services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|c:\\users\\angel.barrientos\\source\\repos\\adminrobin\\models\\entities\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|solutionrelative:models\\entities\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|c:\\users\\angel.barrientos\\source\\repos\\adminrobin\\models\\entities\\pages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|solutionrelative:models\\entities\\pages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|c:\\users\\angel.barrientos\\source\\repos\\adminrobin\\models\\dtos\\pausedate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|solutionrelative:models\\dtos\\pausedate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|c:\\users\\angel.barrientos\\source\\repos\\adminrobin\\models\\dtos\\pagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|solutionrelative:models\\dtos\\pagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|c:\\users\\angel.barrientos\\source\\repos\\adminrobin\\models\\dtos\\logdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|solutionrelative:models\\dtos\\logdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|c:\\users\\angel.barrientos\\source\\repos\\adminrobin\\models\\dtos\\extensionhealthdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|solutionrelative:models\\dtos\\extensionhealthdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|c:\\users\\angel.barrientos\\source\\repos\\adminrobin\\models\\dtos\\extensionconfigdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|solutionrelative:models\\dtos\\extensionconfigdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|c:\\users\\angel.barrientos\\source\\repos\\adminrobin\\data\\adminrobindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|solutionrelative:data\\adminrobindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|c:\\users\\angel.barrientos\\source\\repos\\adminrobin\\data\\repositories\\pagesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|solutionrelative:data\\repositories\\pagesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|c:\\users\\angel.barrientos\\source\\repos\\adminrobin\\data\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|solutionrelative:data\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|c:\\users\\angel.barrientos\\source\\repos\\adminrobin\\controllers\\pagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|solutionrelative:controllers\\pagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|c:\\users\\angel.barrientos\\source\\repos\\adminrobin\\services\\implementations\\extensionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|solutionrelative:services\\implementations\\extensionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|c:\\users\\angel.barrientos\\source\\repos\\adminrobin\\services\\interfaces\\ipauseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|solutionrelative:services\\interfaces\\ipauseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|c:\\users\\angel.barrientos\\source\\repos\\adminrobin\\services\\interfaces\\ilogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|solutionrelative:services\\interfaces\\ilogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|c:\\users\\angel.barrientos\\source\\repos\\adminrobin\\services\\implementations\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|solutionrelative:services\\implementations\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|c:\\users\\angel.barrientos\\source\\repos\\adminrobin\\models\\entities\\actiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|solutionrelative:models\\entities\\actiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|c:\\users\\angel.barrientos\\source\\repos\\adminrobin\\controllers\\extensioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|solutionrelative:controllers\\extensioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|c:\\users\\angel.barrientos\\source\\repos\\adminrobin\\services\\interfaces\\iextensionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|solutionrelative:services\\interfaces\\iextensionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|c:\\users\\angel.barrientos\\source\\repos\\adminrobin\\adminrobin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|solutionrelative:adminrobin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|c:\\users\\angel.barrientos\\source\\repos\\adminrobin\\models\\entities\\pauseevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DA6A21-C9FC-4AA9-BE73-35194EF37DE9}|AdminRobin.csproj|solutionrelative:models\\entities\\pauseevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 248,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T16:54:04.245Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Services\\Implementations\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\AuthService.cs",
+              "ToolTip": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Services\\Implementations\\AuthService.cs",
+              "RelativeToolTip": "Services\\Implementations\\AuthService.cs",
+              "ViewState": "AgIAAM0AAAAAAAAAAADwv94AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T17:25:50.364Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Services\\Implementations\\AdminService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\AdminService.cs",
+              "ToolTip": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Services\\Implementations\\AdminService.cs",
+              "RelativeToolTip": "Services\\Implementations\\AdminService.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAuwG8AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T16:55:27.322Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Logs.cs",
+              "DocumentMoniker": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Models\\Entities\\Logs.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Logs.cs",
+              "ToolTip": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Models\\Entities\\Logs.cs",
+              "RelativeToolTip": "Models\\Entities\\Logs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T20:35:54.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwCYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:20:03.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminService.temp.cs",
+              "DocumentMoniker": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Services\\Implementations\\AdminService.temp.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\AdminService.temp.cs",
+              "ToolTip": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Services\\Implementations\\AdminService.temp.cs",
+              "RelativeToolTip": "Services\\Implementations\\AdminService.temp.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAcwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T18:40:56.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminUpdateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Models\\DTOs\\AdminUpdateUserDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\AdminUpdateUserDto.cs",
+              "ToolTip": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Models\\DTOs\\AdminUpdateUserDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\AdminUpdateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T17:37:07.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogsControllers.cs",
+              "DocumentMoniker": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Controllers\\LogsControllers.cs",
+              "RelativeDocumentMoniker": "Controllers\\LogsControllers.cs",
+              "ToolTip": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Controllers\\LogsControllers.cs",
+              "RelativeToolTip": "Controllers\\LogsControllers.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAwwD8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T20:57:43.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Data\\Repositories\\LogsRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\LogsRepository.cs",
+              "ToolTip": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Data\\Repositories\\LogsRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\LogsRepository.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAUwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T20:53:31.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminResetPasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Models\\DTOs\\AdminResetPasswordDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\AdminResetPasswordDto.cs",
+              "ToolTip": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Models\\DTOs\\AdminResetPasswordDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\AdminResetPasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T17:55:49.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CsvExportService.cs",
+              "DocumentMoniker": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Services\\Implementations\\CsvExportService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\CsvExportService.cs",
+              "ToolTip": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Services\\Implementations\\CsvExportService.cs",
+              "RelativeToolTip": "Services\\Implementations\\CsvExportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T16:55:42.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAdminService.cs",
+              "DocumentMoniker": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Services\\Interfaces\\IAdminService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IAdminService.cs",
+              "ToolTip": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Services\\Interfaces\\IAdminService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IAdminService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwBoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T16:26:32.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUsersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Data\\Repositories\\IUsersRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\IUsersRepository.cs",
+              "ToolTip": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Data\\Repositories\\IUsersRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\IUsersRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA1wBMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T20:51:18.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Data\\Repositories\\UsersRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\UsersRepository.cs",
+              "ToolTip": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Data\\Repositories\\UsersRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\UsersRepository.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAqwI4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T17:01:13.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Models\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Models\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T17:00:30.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserExportDto.cs",
+              "DocumentMoniker": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Models\\DTOs\\UserExportDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\UserExportDto.cs",
+              "ToolTip": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Models\\DTOs\\UserExportDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\UserExportDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T17:01:43.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Models\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Models\\Entities\\User.cs",
+              "RelativeToolTip": "Models\\Entities\\User.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAqwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T18:48:47.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RevokedToken.cs",
+              "DocumentMoniker": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Models\\Entities\\RevokedToken.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\RevokedToken.cs",
+              "ToolTip": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Models\\Entities\\RevokedToken.cs",
+              "RelativeToolTip": "Models\\Entities\\RevokedToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T15:48:56.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PptExportService.cs",
+              "DocumentMoniker": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Services\\Implementations\\PptExportService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\PptExportService.cs",
+              "ToolTip": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Services\\Implementations\\PptExportService.cs",
+              "RelativeToolTip": "Services\\Implementations\\PptExportService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAuwEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T16:55:59.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ICsvExportService.cs",
+              "DocumentMoniker": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Services\\Interfaces\\ICsvExportService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\ICsvExportService.cs",
+              "ToolTip": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Services\\Interfaces\\ICsvExportService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\ICsvExportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T16:37:41.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IPptExportService.cs",
+              "DocumentMoniker": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Services\\Interfaces\\IPptExportService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IPptExportService.cs",
+              "ToolTip": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Services\\Interfaces\\IPptExportService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IPptExportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T16:40:47.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T17:03:02.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserType.cs",
+              "DocumentMoniker": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Models\\Entities\\UserType.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\UserType.cs",
+              "ToolTip": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Models\\Entities\\UserType.cs",
+              "RelativeToolTip": "Models\\Entities\\UserType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T20:51:04.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Pages.cs",
+              "DocumentMoniker": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Models\\Entities\\Pages.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Pages.cs",
+              "ToolTip": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Models\\Entities\\Pages.cs",
+              "RelativeToolTip": "Models\\Entities\\Pages.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAUwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T15:00:36.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Pausedate.cs",
+              "DocumentMoniker": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Models\\DTOs\\Pausedate.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\Pausedate.cs",
+              "ToolTip": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Models\\DTOs\\Pausedate.cs",
+              "RelativeToolTip": "Models\\DTOs\\Pausedate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:04:59.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PageDto.cs",
+              "DocumentMoniker": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Models\\DTOs\\PageDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\PageDto.cs",
+              "ToolTip": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Models\\DTOs\\PageDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\PageDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T17:39:26.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LogDto.cs",
+              "DocumentMoniker": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Models\\DTOs\\LogDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\LogDto.cs",
+              "ToolTip": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Models\\DTOs\\LogDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\LogDto.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwBsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T17:00:19.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ExtensionHealthDto.cs",
+              "DocumentMoniker": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Models\\DTOs\\ExtensionHealthDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\ExtensionHealthDto.cs",
+              "ToolTip": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Models\\DTOs\\ExtensionHealthDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\ExtensionHealthDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T14:41:17.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ExtensionConfigDto.cs",
+              "DocumentMoniker": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Models\\DTOs\\ExtensionConfigDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\ExtensionConfigDto.cs",
+              "ToolTip": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Models\\DTOs\\ExtensionConfigDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\ExtensionConfigDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T14:42:03.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AdminRobinDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Data\\AdminRobinDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AdminRobinDbContext.cs",
+              "ToolTip": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Data\\AdminRobinDbContext.cs",
+              "RelativeToolTip": "Data\\AdminRobinDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T19:24:13.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PagesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Data\\Repositories\\PagesRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\PagesRepository.cs",
+              "ToolTip": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Data\\Repositories\\PagesRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\PagesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T20:54:47.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Data\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Data\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAUwAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T20:43:20.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PagesController.cs",
+              "DocumentMoniker": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Controllers\\PagesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PagesController.cs",
+              "ToolTip": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Controllers\\PagesController.cs",
+              "RelativeToolTip": "Controllers\\PagesController.cs",
+              "ViewState": "AgIAAPsAAAAAAAAAAAAuwPQAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T18:36:54.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ExtensionService.cs",
+              "DocumentMoniker": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Services\\Implementations\\ExtensionService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\ExtensionService.cs",
+              "ToolTip": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Services\\Implementations\\ExtensionService.cs",
+              "RelativeToolTip": "Services\\Implementations\\ExtensionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T14:43:56.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IPauseService.cs",
+              "DocumentMoniker": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Services\\Interfaces\\IPauseService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IPauseService.cs",
+              "ToolTip": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Services\\Interfaces\\IPauseService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IPauseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T15:53:51.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ILogService.cs",
+              "DocumentMoniker": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Services\\Interfaces\\ILogService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\ILogService.cs",
+              "ToolTip": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Services\\Interfaces\\ILogService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\ILogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T16:59:58.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "LogService.cs",
+              "DocumentMoniker": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Services\\Implementations\\LogService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\LogService.cs",
+              "ToolTip": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Services\\Implementations\\LogService.cs",
+              "RelativeToolTip": "Services\\Implementations\\LogService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T18:46:22.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ActionType.cs",
+              "DocumentMoniker": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Models\\Entities\\ActionType.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\ActionType.cs",
+              "ToolTip": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Models\\Entities\\ActionType.cs",
+              "RelativeToolTip": "Models\\Entities\\ActionType.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:02:01.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ExtensionController.cs",
+              "DocumentMoniker": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Controllers\\ExtensionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ExtensionController.cs",
+              "ToolTip": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Controllers\\ExtensionController.cs",
+              "RelativeToolTip": "Controllers\\ExtensionController.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAgwKIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T14:39:41.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IExtensionService.cs",
+              "DocumentMoniker": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Services\\Interfaces\\IExtensionService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IExtensionService.cs",
+              "ToolTip": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Services\\Interfaces\\IExtensionService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IExtensionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T14:42:49.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-30T16:56:41.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AdminRobin.csproj",
+              "DocumentMoniker": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\AdminRobin.csproj",
+              "RelativeDocumentMoniker": "AdminRobin.csproj",
+              "ToolTip": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\AdminRobin.csproj",
+              "RelativeToolTip": "AdminRobin.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-25T15:53:39.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwB8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T17:25:22.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "PauseEvent.cs",
+              "DocumentMoniker": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Models\\Entities\\PauseEvent.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\PauseEvent.cs",
+              "ToolTip": "C:\\Users\\angel.barrientos\\source\\repos\\AdminRobin\\Models\\Entities\\PauseEvent.cs",
+              "RelativeToolTip": "Models\\Entities\\PauseEvent.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:02:19.129Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

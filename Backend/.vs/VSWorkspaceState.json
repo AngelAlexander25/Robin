@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Data",
+    "\\Data\\Repositories",
+    "\\Models",
+    "\\Models\\DTOs",
+    "\\Models\\Entities",
+    "\\obj",
+    "\\Properties",
+    "\\Services",
+    "\\Services\\Implementations"
+  ],
+  "SelectedNode": "\\AdminRobin.sln",
+  "PreviewInSolutionExplorer": false
+}
